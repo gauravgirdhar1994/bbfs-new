@@ -39,7 +39,7 @@ export default class MyApp extends App {
                 <Head>
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
-                    <title>Ziran - React Next Multipurpose Portfolio Landing</title>
+                    <title>India's Best Football Academy - By Bhaichung Bhutia | BBFS</title>
                 </Head>
 
                 <Component {...pageProps} />

@@ -1,7 +1,7 @@
 {
-    "name": "ziran",
+    "name": "BBFS",
     "version": "1.3.0",
-    "description": "Ziran - Multipurpose Portfolio Landing React Template",
+    "description": "India&#x27;s Best Football Academy - By Bhaichung Bhutia | BBFS",
     "main": "index.js",
     "scripts": {
         "dev": "next dev",
